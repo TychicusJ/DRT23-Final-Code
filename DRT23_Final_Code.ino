@@ -1,6 +1,6 @@
 // DRT23- Autonomous Waypoint Navigation Car
 // Arthur: Demetria Labat, Rony Akhter, & Tychicus Johnson
-// Created 13 September 2023
+// Created 6 Novermber 2023
 
 #include <Wire.h> // Used by I2C and QMC5883L compass
 #include <QMC5883LCompass.h> // Library for the compass
